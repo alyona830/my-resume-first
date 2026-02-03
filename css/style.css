@@ -1,0 +1,271 @@
+body {
+background: #F6F6FA;
+padding-left: 40px;
+padding-top: 40px;
+padding-right: 40px;
+padding-bottom: 40px;
+
+
+            font-family: "Montserrat", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: normal;
+     
+            
+}
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/* отцентровала */
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    flex-direction: row-reverse;
+width: 1700px;
+margin: 0 auto;
+   
+   
+
+}
+
+.main-content{
+    padding: 88px 80px 40px 80px;
+    box-sizing: border-box;
+    
+}
+/* sidebar */
+.sidebar {
+
+    background: #E0EBFE;
+    padding-top: 40px;
+        padding-bottom: 40px;
+box-sizing: border-box;
+width: 370px;
+}
+.sidebar-content {
+padding-left: 40px;
+padding-top: 40px;
+padding-right: 40px;
+box-sizing: border-box;
+}
+/* contacts */
+.contacts {
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+
+.nomber {
+color: #161D2A;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+margin-right: 7px;
+}
+
+
+
+.contacts-link {
+color: #2979ff;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-decoration-line: underline;
+}
+
+.contacts-item {
+margin-top: 0;
+margin-bottom: 5px;
+
+}
+
+.contacts-cont {
+margin-bottom: 40px;
+
+}
+/* language */
+.language-cont {
+margin-bottom: 40px;
+margin-top: 30px;
+
+}
+
+.language {
+color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+margin-bottom: 8px;
+}
+
+.language-list{
+color: #161D2A;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+
+
+   padding-left: 20px;
+margin-top: 0;
+}
+
+.tochki {
+    color: #be1f1f;
+}
+/* skills */
+.skills-cont{
+margin-bottom:40px;
+
+}
+.skills-title {
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height:normal;
+    margin-top:0;
+    margin-bottom: 8px;
+}
+.skills-list{
+padding-left: 20px;
+
+}
+.soft-skills{
+color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+
+}
+.soft-skills-list{
+    
+    padding-left: 20px;
+}
+.skills-list-item{
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+/* main content */
+.my-profession{
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 17px;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+.my-name{
+color: #000;
+font-size: 40px;
+font-weight: 700;
+line-height: 55px;
+margin-top: 0;
+margin-bottom: 12px;
+}
+.my-descr{
+color: #000;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+}
+.my-info{
+    margin-bottom: 30px
+}
+/* my projects {my-projects-title zagolovki}*/
+
+.my-projects-title{
+
+color: #000;
+font-size: 22px;
+font-weight: 700;
+line-height: 27px;
+margin-top: 0;
+margin-bottom: 8px;
+}
+.my-projects-item {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.my-projects-list{
+    padding-left: 18px;
+}
+.my-projects-item-link{
+    color: #005FFF;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 27px;
+    text-decoration-line: underline;
+}
+.my-projects-item-tech{
+    color: #252424;
+    font-size:14px ;
+    font-weight: 400;
+    line-height: 24px;
+}
+.my-projects-cont{
+    margin-bottom: 40px;
+}
+/* work experience */
+.work-experience{
+    color: #000;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+.company-blue{
+    color: #2556b8;
+   }
+
+.work-experience-time {
+color: #222121;
+font-size:14px ;
+font-weight: 500;
+line-height: 15px;
+margin-bottom: 8px;
+}
+.work-experience-duties-list{
+  padding-left: 16px;  
+}
+.work-experience-duties-item{
+color: #222121;
+font-size: 14px;
+font-weight: 500;
+line-height: 24px;
+}
+.work-experience-cont{
+    margin-bottom: 12px;
+}
+.work-experience-section{
+  margin-bottom: 40px;  
+}
+/* education */
+.education-title{
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+
+}
+.education-universite{
+    color: #2556b8;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px
+}
