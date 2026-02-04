@@ -213,12 +213,9 @@ margin-bottom: 8px;
     line-height: 27px;
     text-decoration-line: underline;
     :hover {
-            color: #1f58cb;
+            color: #040c1c;
         }
     
-        :active {
-            color: #092d70;
-        }
 }
 .my-projects-item-tech{
     color: #252424;
